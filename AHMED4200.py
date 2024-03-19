@@ -1162,7 +1162,7 @@ def menu():
 	print('[2] AHMED + ALIPASS')
 	print('[3]  ALI + KHAN PASS')
 	print('[4] BEST FOR LODO IDS')
-	print('[5] CRACK ONLY 2009 IDS (PRO)'')
+	print('[5] BEST FOR PUBG IDS')
 	print('[0] EXIT TO MAIN MENU')
 	lines()
 	opt = input('[•] CHOOSE: ')
